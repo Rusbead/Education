@@ -1,0 +1,9 @@
+// Инициализация локального репозитория
+git init
+
+git add .
+git push -u origin main
+
+// Создание и смена ветки
+git branch name
+git checkout name
